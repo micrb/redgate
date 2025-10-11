@@ -1,0 +1,16 @@
+[$RootKey$\InstalledProducts\SQLPromptSsmsPackage21]
+@="#110"
+"Package"="{e33b8a3b-d1cf-4eb0-92aa-0590f0b55b1a}"
+"PID"="1.0"
+"ProductDetails"="#112"
+"LogoID"="#400"
+[$RootKey$\Packages\{e33b8a3b-d1cf-4eb0-92aa-0590f0b55b1a}]
+@="SQLPromptSsmsPackage21"
+"InprocServer32"="$WinDir$\SYSTEM32\MSCOREE.DLL"
+"Class"="RedGate.SqlPrompt.SsmsPackage21.SsmsPackage"
+"CodeBase"="C:\PROGRA~2\Red Gate\SQL Prompt 11\RedGate.SqlPrompt.SsmsPackage21.dll"
+"AllowsBackgroundLoad"=dword:00000001
+[$RootKey$\AutoLoadPackages\{e80ef1cb-6d64-4609-8faa-feacfd3bc89f}]
+"{e33b8a3b-d1cf-4eb0-92aa-0590f0b55b1a}"=dword:00000002
+[$RootKey$\Menus]
+"{e33b8a3b-d1cf-4eb0-92aa-0590f0b55b1a}"=", Menus.ctmenu, 1"
